@@ -23,7 +23,8 @@ String sexo;
         this.telefono = telefono;
         this.email = email;
         this.sexo = sexo;
-        //this.fnac = fnac;       
+        //this.fnac = fnac; 
+        ListaMenu ListaAsociada;
     }
 
     public Persona(String childText, String childText0, String childText1, String childText2, String childText3) {
